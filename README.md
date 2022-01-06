@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=350&section=header&text=soyoung%20Youn&fontSize=90&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=350&section=header&text=soyoung%20Youn&fontSize=90&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 
