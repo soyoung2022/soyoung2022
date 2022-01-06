@@ -1,5 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFB6C1&height=380&section=header&text=soyoung%20Youn&fontColor=000000&fontSize=95&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=350&section=header&text=soyoung%20Youn&fontSize=90&fontColor=000000&animation=fadeIn" />
+</p>
+
 
 <div align=center>
   
@@ -39,4 +42,5 @@
   # :mailbox_with_mail: Contacts
   
   ![Gmail Badge](https://img.shields.io/badge/Gmail-0000FF?style=flat-square&logo=Gmail&logoColor=white&link:mailto=yuns8671@gmail.com)
+  
 </div>
