@@ -1,12 +1,12 @@
-
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFB6C1&height=380&section=header&text=soyoung%20Youn&fontColor=000000&fontSize=95&animation=fadeIn)
 
-<div align=center>
+
   ### :peach: About Me :peach:
   
-  - :snowflake: I major in IT engineering(2021.03~)
+  :snowflake: I major in IT engineering(2021.03~)
   
-  - :clubs: GDSC Member(2021.08~)
+  :clubs: GDSC Member(2021.08~)
 
   
   
