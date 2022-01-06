@@ -6,13 +6,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFB6C1&height=380&section=header&text=soyoung%20Youn&fontColor=000000&fontSize=95&animation=fadeIn)
 
-<div align="center">
+<div align=center>
   ### :peach: About Me :peach:
   - :snowflake: I major in IT engineering(2021.03~)
   - :clubs: GDSC Member(2021.08~)
 
   ### :hammer_and_wrench: Tech Stack :hammer_and_wrench:
-
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
@@ -34,4 +33,3 @@ Here are some ideas to get you started:
   # :mailbox_with_mail: Contacts
   [![Gmail Badge](https://img.shields.io/badge/Gmail-0000FF?style=flat-square&logo=Gmail&logoColor=white&link:mailto=yuns8671@gmail.com)]
 </div>
->
