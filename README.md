@@ -1,9 +1,4 @@
 
-<!--
-**soyoung2022/soyoung2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFB6C1&height=380&section=header&text=soyoung%20Youn&fontColor=000000&fontSize=95&animation=fadeIn)
 
 <div align=center>
