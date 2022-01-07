@@ -8,7 +8,7 @@
   
   ### :peach: About Me :peach:
   
-  #### I major in IT engineering(2021.03~)
+  #### I am majoring in IT engineering(2021.03~)
   
   #### GDSC Sookmyung Member(2021.08~)
 
