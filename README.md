@@ -40,9 +40,7 @@
   
   
   # :mailbox_with_mail: Contacts
-  
-  ![Gmail Badge](https://img.shields.io/badge/Gmail-0000FF?style=flat-square&logo=Gmail&logoColor=white&link:mailto=yuns8671@gmail.com)
-  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuns8671@gmail.com)](mailto:yuns8671@gmail.com)
   <a href="https://velog.io/@ddo_0" target="_blank"><img src="https://img.shields.io/badge/velog-00CCBC?style=flat-square&logo=velog&logoColor=white"/></a>
   
 </div>
