@@ -8,9 +8,9 @@
   
   ### :peach: About Me :peach:
   
-  :snowflake: I major in IT engineering(2021.03~)
+  #### :snowflake: I major in IT engineering(2021.03~)
   
-  :clubs: GDSC Member(2021.08~)
+  #### :clubs: GDSC Sookmyung Member(2021.08~)
 
   
   
