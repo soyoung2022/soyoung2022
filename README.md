@@ -10,7 +10,7 @@
   
   #### I am majoring in IT engineering(2021.03~)
   
-  #### GDSC Sookmyung Member(2021.08~)
+  #### GDSC Sookmyung Member(2021.08~2022.07)
 
   
   
