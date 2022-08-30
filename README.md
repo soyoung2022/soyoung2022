@@ -11,14 +11,18 @@
   #### I am majoring in IT engineering(2021.03~)
   
   #### GDSC Sookmyung Member(2021.08~2022.07)
+  - I'm interested in Machine Learning
 
-  
+   #
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung2022&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung2022&layout=compact&theme=graywhite)
   
   ### :hammer_and_wrench: Tech Stack :hammer_and_wrench:
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E.svg?&style=flat-square&logo=Scikit-learn&logoColor=white)
+  
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white)
@@ -34,19 +38,14 @@
   ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-
-
   
   
   ### :trophy: Certifications :trophy:
 
   
   
-  # :mailbox_with_mail: Contacts
+  ## :mailbox_with_mail: Contacts
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuns8671@gmail.com)](mailto:yuns8671@gmail.com)
   <a href="https://velog.io/@ddo_0" target="_blank"><img src="https://img.shields.io/badge/velog-00CCBC?style=flat-square&logo=velog&logoColor=white"/></a>
- 
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung2022&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung2022&layout=compact&theme=graywhite)
 
 </div>
