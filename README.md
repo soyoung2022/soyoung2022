@@ -16,7 +16,9 @@
   
   ### :hammer_and_wrench: Tech Stack :hammer_and_wrench:
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+  ![Spring Boot]https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E.svg?&style=flat-square&logo=Scikit-learn&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScipt-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
