@@ -20,6 +20,8 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E.svg?&style=flat-square&logo=Scikit-learn&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScipt-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
@@ -43,5 +45,8 @@
   # :mailbox_with_mail: Contacts
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuns8671@gmail.com)](mailto:yuns8671@gmail.com)
   <a href="https://velog.io/@ddo_0" target="_blank"><img src="https://img.shields.io/badge/velog-00CCBC?style=flat-square&logo=velog&logoColor=white"/></a>
-  
+ 
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung2022&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung2022&layout=compact&theme=graywhite)
+
 </div>
