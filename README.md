@@ -18,16 +18,16 @@
 
 
   ### 🐣 Paper 🐣
-  | Research Period |Title|Conference|Etc|
+  | Research Period | Title | Conference | Etc |
   |:---:|:---:|:---:|:---:|
   |2023.03 ~ 2023.09|기하학적 방법론을 기반으로 한 임베딩 통합 연구|KSC|2023 한국소프트웨어종합학술대회 학부생부문 장려상|
 
   ### 🏆 Certifications 🏆
-  | 분야 |자격증명(성적)|취득일|
+  | 분야 | 자격증명(성적) | 취득일 |
   |:---:|:---:|:---:|
   |Language|TOEIC(960)|2023.07|
-  |Computer|SQLD|2024.03|  
-  
+  |Computer|SQLD|2024.03| 
+    
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung2022&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung2022&layout=compact&theme=graywhite)
 
