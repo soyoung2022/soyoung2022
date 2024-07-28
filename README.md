@@ -15,17 +15,22 @@
   #### KIE Lab - Undergraduate Research(2023.01~)
   
   👉🏻 I'm interested in Artificial Intelligence and Data Sciecne !!
+
+
+  ### 🐣 Paper 🐣
+  |Research Period|Title|Conference|Etc|
+  |:---:|:---:|:---:|:---:|
+  |2023.03 ~ 2023.09|기하학적 방법론을 기반으로 한 임베딩 통합 연구|KSC|2023 한국소프트웨어종합학술대회 학부생부문 장려상|
+
+  ### 🏆 Certifications 🏆
+  |분야|자격증명(성적)|취득일|
+  |:---:|:---:|:---:|
+  |Language|TOEIC(960)|2023.07|
+  |Computer|SQLD|2024.03|  
   
-   #
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung2022&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung2022&layout=compact&theme=graywhite)
 
-  ### :hammer_and_wrench: Paper :hammer_and_wrench:
-  
-  
-  |Research Period|Title|Conference|Etc|
-  |:---:|:---:|:---:|:---:|
-  |2023.03 ~ 2023.09|기하학적 방법론을 기반으로 한 임베딩 통합 연구|2023 KSC|2023 한국소프트웨어종합학술대회 학부생부문 장려상|
   
   ### :hammer_and_wrench: Tech Stack :hammer_and_wrench:
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
@@ -49,14 +54,6 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
   
-  
-  ### :trophy: Certifications :trophy:
-
-  
-  |분야|자격증명(성적)|취득일|
-  |:---:|:---:|:---:|
-  |Language|TOEIC(960)|2023.07|
-  |Computer|SQLD|2024.03|
   
   ## :mailbox_with_mail: Contacts
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuns8671@gmail.com)](mailto:yuns8671@gmail.com)
