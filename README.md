@@ -21,8 +21,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung2022&layout=compact&theme=graywhite)
 
   ### :hammer_and_wrench: Paper :hammer_and_wrench:
-  - 기하학적 방법론을 기반으로 한 임베딩 통합 연구 (2023 KSC)
-    - 2023 한국소프트웨어종합학술대회 학부생/주니어논문경진대회 학부생부문 장려상
+  |Research Period|Title|Conference|Etc|
+  |:---:|:---:|:---:|:---:|
+  |2023.03 ~ 2023.09|기하학적 방법론을 기반으로 한 임베딩 통합 연구|2023 KSC|2023 한국소프트웨어종합학술대회 학부생부문 장려상|
   
   ### :hammer_and_wrench: Tech Stack :hammer_and_wrench:
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
@@ -48,10 +49,11 @@
   
   
   ### :trophy: Certifications :trophy:
-  - Language
-    - TOEFL 960 (2023.07)
-  - Computer
-    - SQLD
+
+  |분야|자격증명(성적)|취득일|
+  |:---:|:---:|:---:|
+  |Language|TOEIC(960)|2023.07|
+  |Computer|SQLD|2024.03|
   
   ## :mailbox_with_mail: Contacts
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuns8671@gmail.com)](mailto:yuns8671@gmail.com)
